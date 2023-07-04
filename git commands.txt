@@ -1,0 +1,7 @@
+mkdir                            >** to create folder
+git init                         >** to intiate git local repositary
+touch filename                   >** to create a file
+git add.                         >** to move the file from untracked  working stagging area to diretary area 
+git commit-m "something message" >** it moves file from stagging area to local area
+
+
